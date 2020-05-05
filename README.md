@@ -11,7 +11,7 @@
 * nltk
 * word2vec
 * glove
-* gensim
+
 
 ## Dataset used
 ```
